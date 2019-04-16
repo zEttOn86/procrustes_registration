@@ -118,6 +118,9 @@
     <ClInclude Include="point_matching.h" />
     <ClInclude Include="read_csv.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
     <Import Project="..\packages\itk_static_vc141-x64-release.4.12.2\build\native\itk_static_vc141-x64-release.targets" Condition="Exists('..\packages\itk_static_vc141-x64-release.4.12.2\build\native\itk_static_vc141-x64-release.targets')" />

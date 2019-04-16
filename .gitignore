@@ -1,7 +1,10 @@
 # original #########################################
 
+procrustes_registration/headers/eigen-eigen-5a0156e40feb/*
+procrustes_registration/headers/mist-v1.6.0/*
+
 !.gitkeep
-procrustes_registration/headers/*
+
 
 # Python ############################################
 # Byte-compiled / optimized / DLL files
